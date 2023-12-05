@@ -1,15 +1,5 @@
 ### Hello 👋
-
-
-**amirreza-akbari/amirreza-akbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Linux
 - 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about PHP & C++
 - 📫 How to reach me: amirrezaakbari8402@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
