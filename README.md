@@ -25,8 +25,8 @@
 ## **interested in :**
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height='40' />](https://github.com/amirreza-akbari) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='40' />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='70' />](https://github.com/amirreza-akbari)
 
 
 ---
