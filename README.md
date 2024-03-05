@@ -30,7 +30,8 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='60' />](https://github.com/amirreza-akbari)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='90' />](https://github.com/amirreza-akbari)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='70' />](https://github.com/amirreza-akbari)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height='60' />](https://github.com/amirreza-akbari)
 
 
 ---
