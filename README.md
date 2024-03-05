@@ -37,6 +37,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='50' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height='50' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height='50' />](https://github.com/amirreza-akbari)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height='50' />](https://github.com/amirreza-akbari)
 
 
 ---
