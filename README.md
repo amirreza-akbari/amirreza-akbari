@@ -22,6 +22,10 @@
 
 ---
 
+## **interested in :**
+
+---
+
 ## **:bell: How to reach me**
 
 <div align="center" style="text-align:center">
@@ -32,7 +36,3 @@
 
 
 </div>
-
----
-
-## **interested in :**
