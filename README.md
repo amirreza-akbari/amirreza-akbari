@@ -33,4 +33,4 @@
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" style="width: 5px; height: 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" style="width: 10px; height: 10px;" />
