@@ -24,7 +24,7 @@
 
 ## **interested in :**
 
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height='70' />](https://github.com/amirreza-akbari)
