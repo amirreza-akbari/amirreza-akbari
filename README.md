@@ -33,8 +33,8 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='80' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height='70' />](https://github.com/amirreza-akbari)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height='70' />](https://github.com/amirreza-akbari)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height='80' />](https://github.com/amirreza-akbari)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height='80' />](https://github.com/amirreza-akbari)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height='70' />](https://github.com/amirreza-akbari)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='70' />](https://github.com/amirreza-akbari)
 
 
 ---
