@@ -45,7 +45,7 @@
 
 ## **:bell: How to reach me**
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center;color : red;">
 
 
 
