@@ -9,11 +9,11 @@
 <div align="center" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirreza-akbari&show_icons=true&theme=blueberry&count_private=true"
-            alt="Masoud's Github stats">
+            alt="amirreza's Github stats">
     </a>
     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-akbari&theme=blueberry"
-            alt="Masoud's Github commit streak">
+            alt="amirreza's Github commit streak">
     </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-akbari&layout=compact&theme=blueberry&langs_count=4" alt="amirreza's programming languages"/>
