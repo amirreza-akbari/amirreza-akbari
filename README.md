@@ -16,7 +16,7 @@
             alt="Masoud's Github commit streak">
     </a>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-akbari&layout=compact&theme=blueberry&langs_count=4" alt="Masoud's programming languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-akbari&layout=compact&theme=blueberry&langs_count=4" alt="amirreza's programming languages"/>
     </a>
 </div>
 
