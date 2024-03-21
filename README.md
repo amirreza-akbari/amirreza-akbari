@@ -8,7 +8,7 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirreza-akbari&show_icons=true&theme=blueberry&count_private=true"alt="amirreza's Github stats">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirreza-akbari&show_icons=true&theme=blueberry&count_private=true" alt="amirreza's Github stats">
     </a>
     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-akbari&theme=blueberry" alt="amirreza's Github commit streak">
