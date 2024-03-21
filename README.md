@@ -11,7 +11,7 @@
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirreza-akbari&show_icons=true&theme=blueberry&count_private=true"alt="amirreza's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-akbari&theme=blueberry"alt="amirreza's Github commit streak">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-akbari&theme=blueberry" alt="amirreza's Github commit streak">
     </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-akbari&layout=compact&theme=blueberry&langs_count=4" alt="amirreza's programming languages"/>
