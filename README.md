@@ -21,7 +21,6 @@
 ---
 
 ## **interested in :**
-<div align="center" style="text-align:center">
   
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height='50' />](https://github.com/amirreza-akbari)
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height='50' />](https://github.com/amirreza-akbari)
@@ -39,7 +38,6 @@
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height='50' />](https://github.com/amirreza-akbari)
     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='50' />](https://github.com/amirreza-akbari)
 
-</div>
 ---
 
 ## **:bell: How to reach me**
